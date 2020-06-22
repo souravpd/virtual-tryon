@@ -12,5 +12,5 @@ Please add all the Model files in the appropriate locations
 ```bash
 pip install -r requirements.txt
 
-streamlit app.py
+streamlit run app.py
 ```
